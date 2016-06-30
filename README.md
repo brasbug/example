@@ -19,6 +19,12 @@ Command [hello](hello/) covers:
 
 Library [stringutil](stringutil/) covers:
 
+
+
+
+
+
+
 * The basic form of a library
 * Conversion between string and []rune
 * Table-driven unit tests ([testing](//golang.org/pkg/testing/))
